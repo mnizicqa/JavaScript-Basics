@@ -1,0 +1,14 @@
+{
+  "name": "exceljsutil",
+  "version": "1.0.0",
+  "description": "Traversing excel file using ExcelJS npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Nizic",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
